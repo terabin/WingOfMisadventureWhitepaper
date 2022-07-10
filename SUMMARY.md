@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Wing of Misadventure](README.md)
-* [🇯🇵 Japanese  日本語で読む](https://wingofmisadventure.gitbook.io/wing-of-misadventure-jp/)
+* [🇯🇵 Japanese  日本語で読む](https://wingofmisadventure.gitbook.io/jp/)
 * [💰 Community Treasure](community-treasure.md)
 * [🎮 Retro Version](retro-version.md)
 * [🤖 Team](team.md)
