@@ -102,3 +102,9 @@ Misadventure Souls are personalized and unique avatars that you can show off in 
 
 \-Possible airdrop target
 
+**Limited collections**
+
+New collections will be released every time period with limited supply.
+
+
+
