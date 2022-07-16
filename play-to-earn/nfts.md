@@ -90,3 +90,15 @@ Rare: size 1.5x
 
 Divine: size 2.0x
 
+### Misadventure Souls&#x20;
+
+![](<../.gitbook/assets/image (17).png>)
+
+Misadventure Souls are personalized and unique avatars that you can show off in and out of the game! In addition, they also have unique advantages!
+
+\-Priority pre-orders for the Misadventure metaverse
+
+\-In-game bonuses
+
+\-Possible airdrop target
+
