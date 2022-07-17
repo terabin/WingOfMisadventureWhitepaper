@@ -102,6 +102,8 @@ Misadventure Souls are **personalized and unique** avatars that you can show off
 
 \-Possible airdrop target
 
+\-Access to alpha or closed beta versions of our games!
+
 **Limited collections**
 
 New collections will be released every time period with limited supply.
