@@ -60,6 +60,16 @@ Everyone will be able to enter other players' lands and defeat monsters or even 
 
 All enemies defeated or resources collected generate resources that go to the landowner.
 
+**Land defense**
+
+Landowners will be able to place their NFTs Remnants to protect and walk their land.
+
+The lands will function as dungeons, players will be able to attack the land and claim rewards if the landowner's NFTs are defeated.
+
+In this case, landowners become part of the game's content, as they will be able to customize the land and its NFTs to face players.
+
+There will be special rewards for the hardest lands to defeat!
+
 **Main advantages of having a Land:**
 
 \-Constant generation of resources with the visit of players&#x20;
