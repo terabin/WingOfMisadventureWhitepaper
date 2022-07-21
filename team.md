@@ -10,10 +10,6 @@ Allyson S. Bacon - Founder/CEO
 
 Lucas Barros - Art Director
 
-![](<.gitbook/assets/Lucas Prado - Marketing Manager.png>)
-
-Lucas Prado - Marketing Manager
-
 ![](<.gitbook/assets/Rafael Batista - Art Director.png>)
 
 Rafael Batista - Art Director
