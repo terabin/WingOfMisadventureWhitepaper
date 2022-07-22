@@ -102,7 +102,7 @@ Divine: size 2.0x
 
 ### Misadventure Souls&#x20;
 
-![](../.gitbook/assets/Misadventure-Souls2.png)
+![](../.gitbook/assets/Misadventure-Souls.png)
 
 Misadventure Souls are **personalized and unique** avatars that you can show off in and out of the game! In addition, they also have unique advantages!
 
