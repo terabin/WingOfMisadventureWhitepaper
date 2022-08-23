@@ -18,10 +18,6 @@ Rafael Batista - Art Director
 
 Lucas Tardivo - Blockchain Dev
 
-![](<.gitbook/assets/Mariana - Community Manager.png>)
-
-Mariana Marques - Community Manager
-
 ![](<.gitbook/assets/Lucas Rafael - Community Manager.png>)
 
 Lucas Rafael - Community Manager
