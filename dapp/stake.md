@@ -44,3 +44,7 @@ The amount will be reduced proportionately so that the 3,000,000 are distributed
 \->There will be a 1% reduction on your 35% APR
 
 \->Your new APR will be 34.65%
+
+## Note
+
+The above values ​​are only determined for the first 5 years, after that they depend on community voting.
