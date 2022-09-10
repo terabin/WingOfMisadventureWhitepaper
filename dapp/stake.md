@@ -25,7 +25,7 @@ _-_Remnant
 | Rare Max daily: 3.32 $MISAD     | Rare Max daily: 12.68 $MISAD            |
 | Rare Min daily: 1.66 $MISAD     | Rare Min daily: 6.34 $MISAD             |
 | Divine Max daily: 20.91 $MISAD  | Divine Min daily rewards: 62.31 $MISAD  |
-| Divine Min daily: 10.46 $MISAD  | Divine Min daily rewards: 31.155 $MISAD |
+| Divine Min daily: 10.455 $MISAD | Divine Min daily rewards: 31.155 $MISAD |
 
 ## Dynamic APR of the $MISAD stake
 
