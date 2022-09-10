@@ -19,7 +19,7 @@ _-_Remnant
 | Remnant                         | Land                                    |
 | ------------------------------- | --------------------------------------- |
 | Common Max daily: 0.83 $MISAD   | Common Max daily: 3.75 $MISAD           |
-| Common Min daily: 0.415 $MISAD  | Uncommon Min daily: 1.875 $MISAD        |
+| Common Min daily: 0.415 $MISAD  | Common Min daily: 1.875 $MISAD          |
 | Uncommon Max daily: 1.64 $MISAD | Uncommon Max daily: 7.42 $MISAD         |
 | Uncommon Min daily: 0.82 $MISAD | Uncommon Min daily: 3.71 $MISAD         |
 | Rare Max daily: 3.32 $MISAD     | Rare Max daily: 12.68 $MISAD            |
