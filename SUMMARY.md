@@ -29,6 +29,10 @@
 * [Factions](game/factions.md)
 * [Guilds](game/guilds.md)
 
+## DAPP
+
+* [Stake](dapp/stake.md)
+
 ## ROADMAP
 
 * [2022](roadmap/2022.md)
@@ -47,7 +51,3 @@
 ## Study
 
 * [Sustainability](study/sustainability.md)
-
-## DAPP
-
-* [Stake](dapp/stake.md)
