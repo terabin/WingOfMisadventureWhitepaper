@@ -47,3 +47,7 @@
 ## Study
 
 * [Sustainability](study/sustainability.md)
+
+## DAPP
+
+* [Stake](dapp/stake.md)
