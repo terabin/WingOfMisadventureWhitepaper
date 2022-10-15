@@ -10,7 +10,7 @@ There will be a non-NFT and non-player-driven store where the development team w
 
 \-Services like changing avatar, changing name, changing guild name and other simple changes.
 
-The currency used in this store is $MISAD, 10% of the amount collected by the store is burned monthly, 80% goes to the community treasury and 10% goes to the development team.
+The currency used in this store is $MISAD, 1% of the amount collected by the store is burned monthly, 10% goes to the community treasury and 89% goes to the development team.
 
 
 
