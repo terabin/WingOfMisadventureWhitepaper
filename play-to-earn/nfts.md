@@ -148,6 +148,24 @@ These 100 Maginekos feature 4 from 4Tabern logo and they are the only ones that 
 
 Holders of Maginekos NFTs will be the ones who will receive airdrops from the Magineko ecosystem as it develops.
 
+### Exclusive combination
+
+Each Magineko is unique, which means that there is no Magineko with the same combination of attributes and visuals.
+
+Magineko parts are divided into:
+
+\-Body
+
+\-Eye
+
+\-Head accessory
+
+\-Clothing
+
+\-Weapon
+
+\-Background
+
 
 
 
