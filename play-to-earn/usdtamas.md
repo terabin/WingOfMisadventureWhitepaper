@@ -1,6 +1,6 @@
 # $TAMAS
 
-![$TAMAS coin](<../.gitbook/assets/image (3).png>)
+![$TAMAS coin](<../.gitbook/assets/image (3) (1).png>)
 
 $TAMAS is a token with unlimited supply that everyone can farm in-game by defeating monsters and completing quests. This currency is completely community driven and has some in-game uses (non-nft) like:
 

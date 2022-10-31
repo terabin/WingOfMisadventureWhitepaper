@@ -1,6 +1,6 @@
 # NFTs
 
-There will initially be three types of NFT in the Misadventure metaverse:
+There will initially be four types of NFT in the Misadventure metaverse:
 
 ### Divine Remnants
 
@@ -117,6 +117,38 @@ Misadventure Souls are **personalized and unique** avatars that you can show off
 **Limited collections**
 
 New collections will be released every time period with limited supply.
+
+## Maginekos
+
+Maginekos are magical cats with very sharp claws that will fight alongside you against the most diverse enemies in Misadventure, but more than companions, they are NFTs designed to go beyond the Wing of Misadventure.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+There are a total of **9000** Maginekos, and they will be the only ones to exist in the entire ecosystem, this means that there will be no way to multiply Maginekos.
+
+Initially only 5000 will be offered for sale. The other 4000 will be offered at special events with specific themes.
+
+### Utility in DAPP <a href="#5bb4" id="5bb4"></a>
+
+Players will be able to share the link of their maginekos on DAPP, and visitors will be able to pet the magineko by paying a fee of [$MISAD](usdmisad.md) (or any token where the Misad protocol interacts), when petting a Magineko you will receive [$TAMAS](usdtamas.md) and a random rarity NFT equipment.
+
+The Magineko owner receives 90% of the [$MISAD](usdmisad.md) fee, and the 10% goes to the community treasury.
+
+Magineko’s NFT gear is special, so be sure to pet a Magineko when you find one! Maginekos can produce 1 to 5 pieces of equipment per day based on Magineko's rarity/type.
+
+### Maginekos by 4Tabern
+
+In celebration of the creation of Maginekos, 4Tabern (developer of Wing of Misadventure) created 100 special Maginekos that can be obtained in the first 5000 Maginekos offered.
+
+![](<../.gitbook/assets/4Gato nft 2.png>)![](<../.gitbook/assets/4Gata nft 1 (1) (1).png>)
+
+These 100 Maginekos feature 4 from 4Tabern logo and they are the only ones that can produce 5 pieces of equipment a day.
+
+### Airdrop target
+
+Holders of Maginekos NFTs will be the ones who will receive airdrops from the Magineko ecosystem as it develops.
+
+
 
 
 
