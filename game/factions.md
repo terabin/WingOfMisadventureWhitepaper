@@ -1,6 +1,6 @@
 # Factions
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 The faction system existed in all old versions of the Misadventure universe, that's because the world of Misadventure is in constant war and the center of everything revolves around two cities: Lilia and Lotos.\
 \
