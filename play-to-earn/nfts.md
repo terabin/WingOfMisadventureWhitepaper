@@ -120,9 +120,9 @@ New collections will be released every time period with limited supply.
 
 ## Maginekos
 
-Maginekos are magical cats with very sharp claws that will fight alongside you against the most diverse enemies in Misadventure, but more than companions, they are NFTs designed to go beyond the Wing of Misadventure.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+Maginekos are magical cats with very sharp claws that will fight alongside you against the most diverse enemies in Misadventure, but more than companions, they are NFTs designed to go beyond the Wing of Misadventure.
 
 There are a total of **9000** Maginekos, and they will be the only ones to exist in the entire ecosystem, this means that there will be no way to multiply Maginekos.
 
