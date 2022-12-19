@@ -120,7 +120,7 @@ New collections will be released every time period with limited supply.
 
 ## Maginekos
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Maginekos are magical cats with very sharp claws that will fight alongside you against the most diverse enemies in Misadventure, but more than companions, they are NFTs designed to go beyond the Wing of Misadventure.
 
@@ -141,6 +141,8 @@ Magineko’s NFT gear is special, so be sure to pet a Magineko when you find one
 In celebration of the creation of Maginekos, 4Tabern (developer of Wing of Misadventure) created 100 special Maginekos that can be obtained in the first 5000 Maginekos offered.
 
 ![](<../.gitbook/assets/4Gato nft 2.png>)![](<../.gitbook/assets/4Gata nft 1 (1) (1).png>)
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 These 100 Maginekos feature 4 from 4Tabern logo and they are the only ones that can produce 5 pieces of equipment a day.
 
