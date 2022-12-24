@@ -46,7 +46,7 @@ Divine: 50% bonus
 
 ### Goddess Equipment
 
-<figure><img src="../.gitbook/assets/weaponswing.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/weaponswing.png" alt=""><figcaption><p>Wing of Misadventure NFT equipments</p></figcaption></figure>
 
 These are equipment with rarity above transcendent that can be turned into NFTs.
 
