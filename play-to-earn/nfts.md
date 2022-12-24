@@ -46,6 +46,8 @@ Divine: 50% bonus
 
 ### Goddess Equipment
 
+<figure><img src="../.gitbook/assets/weaponswing.png" alt=""><figcaption></figcaption></figure>
+
 These are equipment with rarity above transcendent that can be turned into NFTs.
 
 _\*Players will have the option to turn any in-game item into NFT by paying a $MISAD fee_
