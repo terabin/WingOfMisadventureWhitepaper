@@ -27,15 +27,3 @@ Audit: Soon
 {% embed url="https://bscscan.com/address/0x549bbc11e6aa8e6dc7050955dde99addb968f427" %}
 
 Audit: Soon
-
-**ITEM NFT**
-
-{% embed url="https://bscscan.com/address/0x2f7e0c7fe240b99a3add54e3d38b5b26807a05d8" %}
-
-Audit: Soon
-
-**MAGINEKO NFT**
-
-{% embed url="https://bscscan.com/address/0x0440a5c41d095d1aed3833898b58c9f6fd653433" %}
-
-Audit: Soon
