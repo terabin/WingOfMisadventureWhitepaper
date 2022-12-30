@@ -134,7 +134,7 @@ Initially only 5000 will be offered for sale. The other 4000 will be offered at 
 
 Players will be able to share the link of their maginekos on DAPP, and visitors will be able to pet the magineko by paying a fee of [$MISAD](usdmisad.md) (or any token where the Misad protocol interacts), when petting a Magineko you will receive [$TAMAS](usdtamas.md) and a random rarity NFT equipment.
 
-The Magineko owner receives 80% of the [$MISAD](usdmisad.md) fee, and the 20% goes to the community treasury.
+The Magineko owner receives 90% of the [$MISAD](usdmisad.md) fee, and the 10% goes to the community treasury.
 
 Magineko’s NFT gear is special, so be sure to pet a Magineko when you find one! Maginekos can produce 1 to 5 pieces of equipment per day based on Magineko's rarity/type.
 
